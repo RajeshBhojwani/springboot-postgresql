@@ -4,7 +4,7 @@ In this project, We will show how Spring boot and spring data jpa can be used to
 
 
 ## Step 1 Download the code from github
-```git clone https://github.com/RajeshBhojwani/```
+```git clone https://github.com/RajeshBhojwani/springboot-postgresql.git```
 
 ## Step 2 Build the project
 ```gradlew clean build```
