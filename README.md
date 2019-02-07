@@ -44,7 +44,7 @@ http://localhost:9090/searchbyfirstname/{firstname}
 
 
 
-
+For detail explanation of this project check this blog -https://www.rajeshbhojwani.co.in/2019/01/spring-boot-and-postgresql.html
 
 
 
